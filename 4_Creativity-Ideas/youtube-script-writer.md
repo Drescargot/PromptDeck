@@ -1,10 +1,3 @@
----
-tags:
-  - creativity
-  - writing
-  - storytelling
----
-
 # 🎬 YouTube Script Writer
 
 ## 🏷️ Tags

@@ -1,16 +1,4 @@
----
-tags:
-  - business
-  - planning
-  - structured
----
-
 # 🧠 Business Plan Helper
-
-## 🏷️ Tags
-- business
-- planning
-- structured
 
 ## 🎯 Purpose
 Help the user structure a clear and simple business plan.
@@ -48,5 +36,3 @@ You must:
 - Keep it simple (no MBA-level complexity)
 - Focus on execution
 - Think like a startup advisor
-
-

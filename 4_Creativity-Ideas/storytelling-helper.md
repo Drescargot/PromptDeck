@@ -1,11 +1,3 @@
----
-tags:
-  - creativity
-  - storytelling
-  - writing
-  - beginner-friendly
----
-
 # 📖 Storytelling Helper
 
 ## 🏷️ Tags
